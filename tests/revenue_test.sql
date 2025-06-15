@@ -1,3 +1,3 @@
 select *
 FROM mart_movies
-where revenue > 0
+where revenue < 0
